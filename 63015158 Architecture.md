@@ -6,14 +6,12 @@
 | ----------- | ----------- | ----------|
 | matplotlib | เพื่อสร้างการแสดงภาพแบบสแตติก ภาพเคลื่อนไหว และการวางแผนกราฟิก |  ประกอบด้วยองค์ประกอบหลักสามส่วน คือ Back-end layer, Artist layer, Scripting layer | flexibility, probability, visibility |
 ---
-
 ### *2. Selenium WebDriver*
 
 | Software | Purpose | Architectural patterns/styles | Quality Attribute |
 | ----------- | ----------- | ----------|
 | Selenium WebDriver | เพื่อใช้ทดสอบเว็บแอปพลิเคชันในเบราว์เซอร์ต่างๆ | ประกอบด้วยองค์ประกอบหลักสี่ส่วน คือ ไลบรารีไคลเอนต์  Selenium, โปรโตคอลสาย JSON ผ่าน HTTP, ไดรเวอร์เบราว์เซอร์, เบราว์เซอร์ | compatibility, flexibility, responsibility |
 ---
-
 ### *3. Joomla*
 
 | Software | Purpose | Architectural patterns/styles | Quality Attribute |
