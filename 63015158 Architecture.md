@@ -10,11 +10,7 @@
 
 | Software | Purpose | Architectural patterns/styles | Quality Attribute |
 | ----------- | ----------- | ----------| ----------|
-| Selenium WebDriver | เพื่อใช้ทดสอบเว็บแอปพลิเคชันในเบราว์เซอร์ต่างๆ | ประกอบด้วยองค์ประกอบหลักสี่ส่วน คือ 
-ไลบรารีไคลเอนต์  Selenium, 
-โปรโตคอลสาย JSON ผ่าน HTTP, 
-ไดรเวอร์เบราว์เซอร์, 
-เบราว์เซอร์ | compatibility, flexibility, responsibility |
+| Selenium WebDriver | เพื่อใช้ทดสอบเว็บแอปพลิเคชันในเบราว์เซอร์ต่างๆ | ประกอบด้วยองค์ประกอบหลักสี่ส่วน คือ ไลบรารีไคลเอนต์  Selenium, โปรโตคอลสาย JSON ผ่าน HTTP, ไดรเวอรเบราว์เซอร์, เบราว์เซอร์ | compatibility, flexibility, responsibility |
 ---
 ### *3. Joomla*
 
